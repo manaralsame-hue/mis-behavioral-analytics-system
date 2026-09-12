@@ -1,0 +1,10 @@
+log_id,employee_name,department,category_name,metric_value,stress_indicator,log_date
+101,Sarah Ahmed,Data Analytics,Task Completion,92.5,Low,2026-09-01
+102,Omar Ali,Software Engineering,Task Completion,78.0,Medium,2026-09-01
+103,Lina Hassan,Data Analytics,Engagement Rate,64.5,High,2026-09-01
+104,Sarah Ahmed,Data Analytics,Punctuality,95.0,Low,2026-09-02
+105,Omar Ali,Software Engineering,Engagement Rate,88.0,Low,2026-09-02
+106,Lina Hassan,Data Analytics,Task Completion,52.0,High,2026-09-02
+107,Sarah Ahmed,Data Analytics,Engagement Rate,91.0,Low,2026-09-03
+108,Omar Ali,Software Engineering,Punctuality,82.0,Medium,2026-09-03
+109,Lina Hassan,Data Analytics,Punctuality,70.0,Medium,2026-09-03
