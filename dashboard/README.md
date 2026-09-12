@@ -1,5 +1,5 @@
 # Executive Dashboard & Visual Analytics
-
+![B-DSS Executive Dashboard](dashboard.png)
 ## 📊 Overview
 This folder contains the visual decision-support dashboard dataset and configurations for the B-DSS project.
 
